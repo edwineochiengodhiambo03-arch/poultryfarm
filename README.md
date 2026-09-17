@@ -1,2 +1,5 @@
-# poultryfarm
-This site helps out with several services such as chicken ordering ,eggs are available and also teaching up coming farmers and many more services 😀. 
+#AbuoyJunior Sentinel
+📊 DATA SCIENCE | ICT | TECHNOLOGY
+💻 Future Data Scientist • Problem Solver
+🧠 Data speaks. I listen. I build
+🚀 Building my legacy.
